@@ -8,13 +8,13 @@ margin-right: auto;
 
 header{
 
-  height: 100px
+  height: 150px
   width: 100%;
   background-color: pink;
 }
 
 nav{
-height: 50px;
+height: 100px;
 width: 100%;
 background-color: #034444;
 }
