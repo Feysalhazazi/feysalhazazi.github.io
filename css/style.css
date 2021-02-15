@@ -20,12 +20,12 @@ background-color: #034444;
 }
 
 main{
-  height: 350px;
-  width: 50%; 
+  height: 500px;
+  width: 50%;
   background-color: #44dffc;
 }
 aside{
-  height: 350px;
+  height: 600px;
   width: 50;
   background-color: #03d99c;
 }
