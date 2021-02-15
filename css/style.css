@@ -20,15 +20,17 @@ background-color: #034444;
 }
 
 main{
-  height: 500px;
-  width: 50%;
+  height: 400px;
+  width: 60%;
   background-color: #44dffc;
 }
+
 aside{
-  height: 600px;
-  width: 50;
+  height: 400px;
+  width: 40%;
   background-color: #03d99c;
 }
+
 footer{
   height: 100px;
   width: 100%;
